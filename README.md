@@ -1,16 +1,10 @@
 # flutterpokedex
 
-A new Flutter project.
+##### This is Simple Pokedex App that Streams and pagination to show thelist of Pokemon 
+##### And in the settings there is an option to change the Theme, which is done using ChangeNotifier Provider.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### TODO:
+- [ ] Create Pages for the specific pokemon
+- [ ] Implement Search for Pokemon
+- [ ] Shared Preferences for Theme storage
+- [ ] Locally Store Pokemon data for offline usage
