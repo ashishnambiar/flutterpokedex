@@ -1,6 +1,6 @@
 # flutterpokedex
 
-##### This is Simple Pokedex App that Streams and pagination to show thelist of Pokemon 
+##### This is Simple Pokedex App that uses Streams and pagination to show the list of Pokemon 
 ##### And in the settings there is an option to change the Theme, which is done using ChangeNotifier Provider.
 
 ### TODO:
